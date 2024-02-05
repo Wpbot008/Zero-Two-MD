@@ -45,11 +45,11 @@ global.ownername = process.env.ownername || 'Ikshwaku Pandey' //owner name
 global.packname = 'Zero-Two' //sticker package name
 global.author = 'Dont Steal' //sticker author name
 global.sessionNamew = 'session.sam'
-global.sessionName = process.env.SESSION_ID || 'No-Session'
+global.sessionName = process.env.SESSION_ID || 'ZEROTWO=F78DDbJI#kqMaVoKIxTIpvckA5tdLoF3PlUw1QVIKX09-1x32z7Q'
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
 global.websitex = "https://ZeroTwoMd.tech" //ur website
-global.prefa = ['-'] //prefix
+global.prefa = ['/'] //prefix
 global.sp = '✨' //design
 module.exports = {
   HEROKU: {
