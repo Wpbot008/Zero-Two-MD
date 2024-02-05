@@ -49,7 +49,7 @@ global.sessionName = process.env.SESSION_ID || 'ZEROTWO=F78DDbJI#kqMaVoKIxTIpvck
 global.zerotwo = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link
 global.zerotwo2 = "https://github.com/SamPandey001/Zero-Two-MD" //ur gc link2
 global.websitex = "https://ZeroTwoMd.tech" //ur website
-global.prefa = ['/'] //prefix
+global.prefa = ['-'] //prefix
 global.sp = '✨' //design
 module.exports = {
   HEROKU: {
